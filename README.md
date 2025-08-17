@@ -1,6 +1,9 @@
 # monochrome-eyes
-A very minimal `sddm` login screen. Has no date or time information but can select DE and has session settings
+A very minimal `sddm` login screen.
+Has no date or time information but can select DE and has session settings
+
 Adapted from configs of *https://github.com/pwyde/monochrome-kde*
+
 **WALLPAPER**
 *https://wallhaven.cc/w/7j3xm3*
 ## About ##
